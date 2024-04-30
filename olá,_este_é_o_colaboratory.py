@@ -12,8 +12,7 @@ Original file is located at
  Escreva("digite um numero=15")
  Leia("Digite um número:15")
 
- #Verificando se o número é positivo, negativo ou zero
-  Se numero > 0
+ #Verificando se o número é positivo, negativo ou zero  Se numero > 0
 
   Escreva("O número é positivo")
   leia("o numero é positivo")
